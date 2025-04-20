@@ -1,0 +1,3 @@
+Station(s) with Largest Temperature Range:
+    STATION_NAME  TempRange
+ WAGGA-WAGGA-AMO      21.07
